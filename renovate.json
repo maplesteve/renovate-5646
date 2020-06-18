@@ -1,0 +1,6 @@
+{
+    "extends": ["github>orgName/renovate-presets"],
+    "encrypted": {
+      "npmrc": "xxxx=="
+    }
+}
